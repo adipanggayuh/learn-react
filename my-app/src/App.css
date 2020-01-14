@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.background-login-image {
+  background: url("./assets/logo/bgFix.png") center bottom / cover;
+  height: 100%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
